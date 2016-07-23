@@ -1,6 +1,5 @@
 Digitalfund Core integration/staging tree
 =====================================
-总量3亿 预挖2亿  1亿分10年挖完 每3个月减产10% 或者每挖100万减产10%  一天可以挖1000块 一块50个币
 
 
 https://digitalfund.org
