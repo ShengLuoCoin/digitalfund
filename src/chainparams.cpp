@@ -304,7 +304,7 @@ public:
         nTargetSpacing = 2.5 * 60; // 2.5 minutes
         bnProofOfWorkLimit = ~uint256(0) >> 1;
         nMaxTipAge = 24 * 60 * 60;
-        genesis.nTime = zaobi-genesis-time;
+        genesis.nTime = 1468972800;
         genesis.nBits = 0x207fffff;
         genesis.nNonce =  1;
         hashGenesisBlock = genesis.GetHash();
